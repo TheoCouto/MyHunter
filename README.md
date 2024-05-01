@@ -23,9 +23,9 @@
         - (f)close
         - getline
     - **from the CSFML library**
-        All functions
+        - All functions
     - **from the math library**
-        All functions
+        - All functions
 
 ---------------------
 
@@ -37,7 +37,7 @@ The basic rules for the **my_hunter** are as follows:
 - ducks must appear on the screen and move from one side to another;
 - the player can click on them to shoot them.
 
-**You can find more information about the project in **B-MUL-100_my_hunter.pdf**.*
+**You can find more information about the project in **B-MUL-100_my_hunter.pdf** above.*
 
 ---------------------
 
@@ -68,4 +68,4 @@ The basic rules for the **my_hunter** are as follows:
 |Visual Effects|0/5|No|
 |Gameplay|0/5|No|
 |Sound Effects|0/4|No|
-|FINAL TOTAL|?/?|No|
+|**TOTAL**|**13/57**|**No**|
