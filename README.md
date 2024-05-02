@@ -6,22 +6,13 @@
 - **Duration**: 3 weeks (11/11/2023 - 01/12/2023)
 - **Solo** Project
 
-## Specifications
+### Specifications
 - **Binary Name**: my_hunter
 - **Language**: C
 - **Compilation**: via Makeﬁle, including re, clean and fclean rules
 - **Authorized Functions**:
     - **from the C library**
-        - malloc
-        - memset
-        - rand
-        - srand
-        - time (only with srand)
-        - (f)open
-        - (f)read
-        - (f)write
-        - (f)close
-        - getline
+        - malloc, memset, rand, srand, time, (f)open, (f)read, (f)write, (f)close, getline
     - **from the CSFML library**
         - All functions
     - **from the math library**
@@ -69,3 +60,6 @@ The basic rules for the **my_hunter** are as follows:
 |Gameplay|0/5|No|
 |Sound Effects|0/4|No|
 |**TOTAL**|**13/57**|**No**|
+
+|***FINAL GRADE***|***13/57***|
+|-|-|
